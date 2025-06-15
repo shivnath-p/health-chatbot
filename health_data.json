@@ -1,0 +1,102 @@
+{
+  "headache": {
+    "keywords": ["headache", "head pain", "migraine"],
+    "response": "It might be due to stress, dehydration, or eye strain. Rest in a quiet place and stay hydrated."
+  },
+  "fever": {
+    "keywords": ["fever", "temperature", "chills"],
+    "response": "It could be a sign of infection. Monitor your temperature, stay hydrated, and rest."
+  },
+  "cough": {
+    "keywords": ["cough", "dry cough", "wet cough", "sore throat"],
+    "response": "Try warm fluids and avoid cold items. If it's persistent or with fever, consult a doctor."
+  },
+  "cold": {
+    "keywords": ["cold", "runny nose", "sneezing", "blocked nose"],
+    "response": "Rest, drink warm liquids, and use steam inhalation. Avoid chilled food and drinks."
+  },
+  "stress": {
+    "keywords": ["stress", "anxiety", "tense", "nervous"],
+    "response": "Try breathing exercises, meditation, and adequate sleep. Consider talking to a mental health professional if needed."
+  },
+  "vomiting": {
+    "keywords": ["vomiting", "nausea", "throwing up"],
+    "response": "Avoid solid food, sip fluids, and rest. If vomiting continues, seek medical help."
+  },
+  "diarrhea": {
+    "keywords": ["diarrhea", "loose motion", "watery stool"],
+    "response": "Stay hydrated with ORS or electrolyte water. Avoid spicy or oily foods."
+  },
+  "constipation": {
+    "keywords": ["constipation", "hard stool", "irregular bowel"],
+    "response": "Increase fiber intake, drink more water, and include fruits and vegetables in your diet."
+  },
+  "acidity": {
+    "keywords": ["acidity", "heartburn", "acid reflux", "indigestion"],
+    "response": "Avoid spicy and fried foods. Take antacids and eat meals on time."
+  },
+  "dizziness": {
+    "keywords": ["dizzy", "dizziness", "lightheaded"],
+    "response": "Sit or lie down immediately. It might be due to low BP, dehydration, or fatigue."
+  },
+  "fatigue": {
+    "keywords": ["tired", "fatigue", "weak", "low energy"],
+    "response": "Ensure proper rest and nutrition. If fatigue persists, get a health check-up."
+  },
+  "back pain": {
+    "keywords": ["back pain", "lower back pain", "spine ache"],
+    "response": "Avoid heavy lifting. Do light stretching and maintain good posture."
+  },
+  "neck pain": {
+    "keywords": ["neck pain", "stiff neck", "neck strain"],
+    "response": "Apply a warm compress and do gentle neck exercises. Avoid long screen time."
+  },
+  "eye strain": {
+    "keywords": ["eye pain", "blurry vision", "eye strain"],
+    "response": "Take regular screen breaks, adjust lighting, and blink often. Use lubricating drops if needed."
+  },
+  "skin rash": {
+    "keywords": ["rash", "itchy skin", "red spots", "skin irritation"],
+    "response": "Use calamine lotion or anti-allergy cream. Avoid scratching and keep the area clean."
+  },
+  "burn": {
+    "keywords": ["burn", "scald", "hot surface injury"],
+    "response": "Cool the burn under running water. Avoid ice. Cover loosely and see a doctor for severe burns."
+  },
+  "cut": {
+    "keywords": ["cut", "wound", "bleeding"],
+    "response": "Clean with antiseptic, apply pressure to stop bleeding, and bandage it properly."
+  },
+  "period pain": {
+    "keywords": ["period pain", "cramps", "menstrual pain"],
+    "response": "Use a heating pad, stay hydrated, and consider mild painkillers if necessary."
+  },
+  "allergy": {
+    "keywords": ["allergy", "sneezing", "itchy eyes", "allergic reaction"],
+    "response": "Avoid known allergens, use antihistamines, and consult a doctor if severe."
+  },
+  "insomnia": {
+    "keywords": ["can't sleep", "insomnia", "sleep issue"],
+    "response": "Maintain a sleep routine, avoid screens before bed, and relax with calming music or reading."
+  },
+  "sore throat": {
+    "keywords": ["sore throat", "scratchy throat", "pain while swallowing"],
+    "response": "Gargle with warm salt water, drink warm tea, and use lozenges."
+  },
+  "chest pain": {
+    "keywords": ["chest pain", "tight chest", "heart pain"],
+    "response": "It could be serious. Seek emergency medical attention immediately."
+  },
+  "shortness of breath": {
+    "keywords": ["short breath", "breathless", "difficulty breathing"],
+    "response": "Rest and take deep breaths. If it continues or worsens, seek emergency help."
+  },
+  "palpitations": {
+    "keywords": ["palpitations", "fast heartbeat", "irregular heartbeat"],
+    "response": "Could be due to anxiety or other causes. Rest and consult a doctor if frequent."
+  },
+  "depression": {
+    "keywords": ["depression", "feeling low", "hopeless", "not happy"],
+    "response": "You are not alone. Please talk to someone you trust or seek professional mental health support."
+  }
+}
